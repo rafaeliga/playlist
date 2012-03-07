@@ -1,0 +1,9 @@
+/.bundle
+/db/*.sqlite3
+/log/*.log
+/tmp
+db/schema.rb
+playlist.tmproj
+public/system/**/*
+log/*
+config/database.yml

@@ -1,0 +1,16 @@
+# encoding: UTF-8
+"pt-BR":
+  activerecord:
+    models:
+      song:
+        one: Música
+        other: Músicas
+    attributes:
+      song:
+        name: "Nome"
+        artist: "Artista"
+        original_tone: "Tom original"
+        our_tone: "Nosso tom"
+        genre: "Gênero"
+        tab_link: "Link para tab / cifra"
+        lyrics: "Letra"

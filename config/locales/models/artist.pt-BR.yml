@@ -1,0 +1,10 @@
+# encoding: UTF-8
+"pt-BR":
+  activerecord:
+    models:
+      artist:
+        one: Artista
+        other: Artistas
+    attributes:  
+      artist:
+        name: "Nome"
