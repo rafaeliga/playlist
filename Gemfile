@@ -8,6 +8,7 @@ gem 'capistrano'
 gem 'ruby-debug19', :require => 'ruby-debug'
 gem 'activeadmin'
 gem 'paperclip', '~> 2.7'
+gem 'dropbox-sdk'
 
 # Gems used only for assets and not required in production environments by default.
 group :assets do
